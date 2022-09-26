@@ -1,0 +1,7 @@
+cloner un repo:
+git clone [le lien du repo]
+
+les 3 commandes de push
+git add
+git commit -m [message]
+git push origin [le nom de la branche]  
