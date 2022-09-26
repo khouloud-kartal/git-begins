@@ -1,16 +1,1 @@
-cloner un repo:
-git clone [le lien du repo]
-
-les 3 commandes de push
-git add
-git commit -m [message]
-git push origin [le nom de la branche]  
-
-la commande pull
-git pull [le lien de repo]
-
-la commande pour creer une branche 
-git branche [le nom de la branche]
-
-la commande pour basculer les branches
-git checkout [le nom de la branche]
+la suppression de contenu de fichier sur la deuxieme branche
