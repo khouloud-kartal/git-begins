@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pour cloner un repository
   git clone [le lien du repo]
 les 3 commmandes de push
@@ -12,7 +11,3 @@ pour ajouter une branche
 pour basculer entre 2 branches
   git checkout [le nom de la branche]
 
-=======
-la suppression de contenu de fichier sur la deuxieme branche
-je rajoute
->>>>>>> add-create-branch-command
