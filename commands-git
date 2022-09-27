@@ -12,5 +12,3 @@ pour basculer entre 2 branches
 git checkout [le nom de la branche]
 cloner un repo:
 git clone [le lien du repo]
-pour restaurer un fichier supprimé
-git reset --hard HEAD~1
