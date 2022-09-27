@@ -1,2 +1,18 @@
-nqfgjkdbvlkjzGFC
-je modifie main
+<<<<<<< HEAD
+pour cloner un repository
+  git clone [le lien du repo]
+les 3 commmandes de push
+  git add [le chemin du dossier à push]
+  git commit -m "message"
+  git push [le lien du repo] [le nom de branche]
+la commande pull
+  git pull [le lien du repo]
+pour ajouter une branche 
+  git branch [le nom de branche]
+pour basculer entre 2 branches
+  git checkout [le nom de la branche]
+
+=======
+la suppression de contenu de fichier sur la deuxieme branche
+je rajoute
+>>>>>>> add-create-branch-command
